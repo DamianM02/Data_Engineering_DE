@@ -1,0 +1,5 @@
+niedostateczny
+mierny
+dostateczny
+dobry
+bardzo dobry
